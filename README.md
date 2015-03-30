@@ -1,0 +1,4 @@
+------------------------------------------------------------------------
+- This is a personal project for creating a pcb flash drive that has
+- just enough memory for my resume and cover letter.
+------------------------------------------------------------------------
